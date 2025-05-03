@@ -1,0 +1,22 @@
+QMainWindow {
+    background-color: #2b2b2b;
+    color: white;
+}
+
+QTableView {
+    background-color: #3b3b3b;
+    color: #f0f0f0;
+    gridline-color: #5c5c5c;
+    selection-background-color: #5588ff;
+}
+
+QPushButton {
+    background-color: #444;
+    color: white;
+    border-radius: 6px;
+    padding: 5px 10px;
+}
+
+QPushButton:hover {
+    background-color: #666;
+}
